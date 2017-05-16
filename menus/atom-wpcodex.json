@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Lookup in WP codex",
+        "label": "WordPress lookup",
         "command": "atom-wpcodex:lookup"
       }
     ]
@@ -15,7 +15,7 @@
           "label": "atom-wpcodex",
           "submenu": [
             {
-              "label": "Lookup in WP codex",
+              "label": "WordPress lookup",
               "command": "atom-wpcodex:lookup"
             }
           ]
