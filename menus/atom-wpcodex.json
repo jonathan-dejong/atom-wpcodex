@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Lookup in WP codex",
+        "command": "atom-wpcodex:lookup"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-wpcodex",
+          "submenu": [
+            {
+              "label": "Lookup in WP codex",
+              "command": "atom-wpcodex:lookup"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
