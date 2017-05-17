@@ -1,7 +1,7 @@
 {
   "name": "atom-wpcodex",
   "main": "./lib/atom-wpcodex",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Find WordPress documentation and open in default browser",
   "keywords": [
     "wordpress",
